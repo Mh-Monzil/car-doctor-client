@@ -11,8 +11,8 @@ const About = () => {
             <div className="lg:w-1/2">
                 <h3 className="text-xl font-bold text-primary">About Us</h3>
                 <h2 className="max-w-[380px] text-5xl font-bold mt-5">We are qualified & of experience in this field</h2>
-                <p className="font-normal text-[#737373] leading-7 mt-7">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </p>
-                <p className="font-normal text-[#737373] leading-7 mt-5">the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </p>
+                <p className="font-normal text-[#737373] leading-7 mt-7 max-w-[490px]">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </p>
+                <p className="font-normal text-[#737373] leading-7 mt-5 max-w-[490px]">the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </p>
                 <button className="text-lg font-semibold rounded-md px-6 py-3 border bg-primary border-primary hover:bg-transparent hover:border-white cursor-pointer transition-all duration-300 text-white mt-7">Get More Info</button>
             </div>
         </div>
